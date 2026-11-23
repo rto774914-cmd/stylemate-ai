@@ -1,0 +1,1 @@
+STYLEMATE AI static website. Preview by opening index.html. Publish by uploading index.html, style.css and script.js to GitHub Pages, Netlify or Vercel. This is a public-facing landing page; it does not include accounts, a cloud wardrobe, or live AI functionality.
